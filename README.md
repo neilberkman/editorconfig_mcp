@@ -96,6 +96,16 @@ The server will start on port 8432 by default.
 
 ### Integration with AI Tools
 
+#### Claude Code
+
+To add this server to Claude Code, run:
+
+```bash
+claude mcp add editorconfig npx editorconfig-mcp-server
+```
+
+#### Other MCP-Compatible Tools
+
 This server is designed to be used with AI coding assistants that support MCP. Configure your AI tool to connect to:
 
 - Base URL: `http://localhost:8432`
