@@ -1,0 +1,27 @@
+# Development files
+.github/
+.git/
+*.log
+.DS_Store
+.env
+*.tmp
+
+# Test files
+test/
+*.test.js
+test-*.js
+
+# Config files not needed in package
+.editorconfig
+eslint.config.js
+
+# Documentation source files
+docs/
+
+# IDE files
+.vscode/
+.idea/
+
+# Build artifacts
+coverage/
+.nyc_output/
