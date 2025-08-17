@@ -1,4 +1,5 @@
 # EditorConfig MCP Server
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/neilberkman/editorconfig_mcp)](https://archestra.ai/mcp-catalog/neilberkman__editorconfig_mcp)
 
 A Model Context Protocol (MCP) compliant server that formats files using `.editorconfig` rules.
 
