@@ -6,6 +6,10 @@ This project started from a specific workflow issue I kept running into. I found
 
 This EditorConfig MCP Server is the tool I built to solve that problem for myself. It acts as a proactive formatting gatekeeper, using your project's .editorconfig rules to ensure files are correct from the start. My hope is that it might be useful to others who've encountered a similar frustration in their AI-assisted development process.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/neilberkman-editorconfig-mcp).
+
 ## Installation
 
 ### Global Installation (Recommended)
